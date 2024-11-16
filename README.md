@@ -2,6 +2,8 @@
 
 This repository contains the analysis and modeling of student performance data. The goal is to explore the relationship between various factors (such as gender, hours studied, resources available, sleep hours, etc.) and their impact on exam scores. The project also explores building predictive models to forecast student performance based on these factors.
 
+Dataset link: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
+
 Data Overview
 The dataset contains several features that represent student-related factors and their corresponding exam scores. The key variables are:
 
